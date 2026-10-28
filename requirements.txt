@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-ollama
+langgraph
+lxml
+python-docx
+streamlit

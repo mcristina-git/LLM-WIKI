@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Obsidian local workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temp files / Source Word documents & conversion reports
+~$*.docx
+~$*.doc
+~$*.xlsx
+*.docx
+*.conversion.json
+
+# Internal / proprietary specifications & generated Wiki content
+TECH-*
+Clippings/*
+!Clippings/.gitkeep
+AI Wiki/*
+!AI Wiki/.gitkeep
